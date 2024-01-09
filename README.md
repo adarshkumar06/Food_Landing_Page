@@ -5,7 +5,7 @@ Technologies Used:
 HTML: Responsible for structuring the content of the landing page.
 CSS: Used for styling and presentation, CSS is employed to enhance the visual appeal of the landing page.
 
-Here is the project link:
+Here is the project link: https://adarshkumar06.github.io/Food_Landing_Page/
 
 Here is the interface of this project:
 ![landingpage](https://github.com/adarshkumar06/Food_Landing_Page/assets/154667153/7db47b1f-5ec6-4414-bc55-748d04585b3c)
